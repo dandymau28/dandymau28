@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dandymau28
+- 👋 Hi, I’m @dandymau28 as known as Dandy Maulana
 - 👀 I’m interested in Software Engineering especially in Backend Engineering
 - 🌱 I’m currently works as Web Programmer at PT Nutech Integrasi
 - 💞️ I’m looking to collaborate on any projects that can help on backend side
