@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dandymau28 as known as Dandy Maulana
 - 👀 I’m interested in Software Engineering especially in Backend Engineering
-- 🌱 I’m currently works as Backend Engineer at PT Bank Rakyat Indonesia
+- 🌱 I’m currently works as Backend Engineer at PT Elektronik Distribusi Otomatisasi Terkemuka (eDOT)
 - 💞️ I’m looking to collaborate on any projects that can help on backend side
 - 📫 You can reach me by send me message on my linkedIn https://www.linkedin.com/in/dandy-m-304324114/
 
